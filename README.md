@@ -19,7 +19,7 @@ In this project, we're creating a simple infrastructure on GCP, including a stat
 To run the application:
 
 ```bash
-cd /usercode/Application
+cd Application
 python3 manage.py runserver 0.0.0.0:8080
 ```
 
