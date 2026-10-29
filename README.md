@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/banner.jpg" alt="Terrain of stacked white bricks dotted with glowing green and cyan glass blocks" width="100%"></p>
+
 # GCP-Terraform-App-Deployment
 
 ---
