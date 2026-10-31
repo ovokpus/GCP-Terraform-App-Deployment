@@ -8,6 +8,10 @@
 
 ---
 
+## Business case
+
+Small teams that set up Google Cloud by hand in the console can't easily review, repeat or rebuild their environments. This guided project defines the state bucket, Artifact Registry, Cloud Run service and a GKE cluster in Terraform, so an environment can be created or removed with one command. The savings are modest at this size, and the reworked modules in GKE-Cluster-Management are the better starting point. [docs/BUSINESS_CASE.md](docs/BUSINESS_CASE.md) explains the case honestly.
+
 ## Deployment of a simple python application on Google Cloud Run using Terraform
 
 Terraform is an open-source infrastructure as code (IaC) tool developed by HashiCorp. It’s designed to help users define, provision, and manage infrastructure resources and services in a declarative and efficient manner. Terraform enables version control, collaboration, and documentation of infrastructure changes, making it easier to track and manage infrastructure configurations over time.
